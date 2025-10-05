@@ -41,23 +41,5 @@ const stack = {
 
 ---
 
-## 📈 GitHub Stats
+*“I don’t just code. I ship products.”*
 
-![Adith’s GitHub stats](https://github-readme-stats.vercel.app/api?username=adithls\&show_icons=true\&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adithls\&layout=compact\&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=adithls\&theme=tokyonight)
-
----
-
-## 🌍 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel\&logoColor=white)](https://azenvoc.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin\&logoColor=white)](https://linkedin.com/in/adithls)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter\&logoColor=white)](#)
-
----
-
-✨ *“I don’t just code. I ship products.”* ✨
-
-```display perfectly.
-```
