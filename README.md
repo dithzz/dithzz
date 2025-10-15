@@ -1,70 +1,66 @@
-# [Adith L S]
-SDE | MVP SPECIALIST
+<!-- ======================== HEADER ======================== -->
+<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<p align="center">Building scalable systems and writing clean, maintainable code.</p>
+
+<!-- ======================== SOCIAL LINKS ======================== -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/your-twitter/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="https://your-portfolio.com/">
+    <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## BUILDING
-
-ACTIVE
-- Full Stack SaaS Templates
-- UI Analysis Platform
-- Technical Consulting
-
-EXPLORING
-- Application Security
-- Penetration Testing
-- Secure Architecture
+<!-- ======================== ABOUT ME ======================== -->
+<div style="background-color:#f5f5f5; padding:15px; border-radius:10px;">
+### About Me
+I'm a backend-focused developer who loves building **scalable systems**, experimenting with modern stacks, and optimizing databases for performance.  
+I enjoy solving complex problems and learning new technologies along the way.
+</div>
 
 ---
 
-## TECHNICAL CAPABILITIES
-
-FRONTEND
-Next.js React TypeScript Tailwind CSS React Native
-
-BACKEND
-Express.js Node.js Microservices Architecture Redis WebSockets
-
-DATABASES
-PostgreSQL MongoDB Supabase SQL Database Design
-
-INFRASTRUCTURE
-AWS EC2 S3 Lambda Docker Vercel CI/CD Pipelines
-
-SECURITY
-JWT Authentication OAuth 2.0 Encryption Security Headers
+<!-- ======================== TECH STACK ======================== -->
+<div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-top:10px;">
+### Tech Stack
+<div style="display:flex; flex-wrap: wrap; gap: 6px; margin-top:5px;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+</div>
+</div>
 
 ---
 
-## PERFORMANCE
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
-
----
-
-## CONSULTING SERVICES
-
-MVP Development
-Technical Architecture Review
-MVP Strategy
-Team Scaling Solutions
-Product Market Fit Analysis
+<!-- ======================== PROJECTS ======================== -->
+<div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-top:10px;">
+### Projects
+- **[Project One](https://github.com/yourusername/project-one)** – A short description highlighting the goal and tech used.
+- **[Project Two](https://github.com/yourusername/project-two)** – A short description highlighting the goal and tech used.
+- **[Project Three](https://github.com/yourusername/project-three)** – A short description highlighting the goal and tech used.
+</div>
 
 ---
 
-## 2025 TARGETS
+<!-- ======================== WAKATIME STATS ======================== -->
+<div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-top:10px;">
+### Coding Activity (WakaTime)
 
-Launch 5 Production SaaS Templates
-Scale Consulting Operations
-Implement Advanced Security Protocols
-Master Application Penetration Testing
+<!--START_SECTION:waka-->
 
----
-
-## CONNECT
-
-[LinkedIn](https://linkedin.com/in/yourprofile)
-[Twitter](https://twitter.com/yourhandle)
-[Email](mailto:your.email@domain.com)
+```txt
+JavaScript   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░
+Python       0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░
+TypeScript   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░
+Other        0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░
