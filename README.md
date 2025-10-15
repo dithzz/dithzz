@@ -17,7 +17,7 @@
 <!-- ======================== ABOUT ME ======================== -->
 <div style="background-color:#f5f5f5; padding:15px; border-radius:10px;">
 ### About Me
-I'm a full stack developer who loves building **scalable systems**, experimenting with modern stacks, and optimizing databases for performance.  
+I'm a full stack developer who loves building scalable systems, experimenting with modern stacks, and optimizing databases for performance.  
 I enjoy solving complex problems and learning new technologies along the way.
 </div>
 
@@ -52,5 +52,3 @@ Python       0 hrs 0 mins    ░░░░░░░░░░░░░░░░░
 TypeScript   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░
 Other        0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░
 
-<!--END_SECTION:waka--> </div>
-<!-- ======================== FUN FACT ======================== --> <div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-top:10px;"> ### Fun Fact I’m a hard core tech enthusiast, and I bring that discipline and curiosity into my coding and projects. </div> ```
