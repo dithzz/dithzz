@@ -1,16 +1,13 @@
 <!-- ======================== HEADER ======================== -->
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Adith L S (Dithzz) 👋</h1>
 <p align="center">Building scalable systems and writing clean, maintainable code.</p>
 
 <!-- ======================== SOCIAL LINKS ======================== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/ls-adith/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/your-twitter/">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio.com/">
+  </a>a
+  <a href="https://azenvoc.com/">
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
@@ -20,7 +17,7 @@
 <!-- ======================== ABOUT ME ======================== -->
 <div style="background-color:#f5f5f5; padding:15px; border-radius:10px;">
 ### About Me
-I'm a backend-focused developer who loves building **scalable systems**, experimenting with modern stacks, and optimizing databases for performance.  
+I'm a full stack developer who loves building **scalable systems**, experimenting with modern stacks, and optimizing databases for performance.  
 I enjoy solving complex problems and learning new technologies along the way.
 </div>
 
@@ -43,16 +40,6 @@ I enjoy solving complex problems and learning new technologies along the way.
 
 ---
 
-<!-- ======================== PROJECTS ======================== -->
-<div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-top:10px;">
-### Projects
-- **[Project One](https://github.com/yourusername/project-one)** – A short description highlighting the goal and tech used.
-- **[Project Two](https://github.com/yourusername/project-two)** – A short description highlighting the goal and tech used.
-- **[Project Three](https://github.com/yourusername/project-three)** – A short description highlighting the goal and tech used.
-</div>
-
----
-
 <!-- ======================== WAKATIME STATS ======================== -->
 <div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-top:10px;">
 ### Coding Activity (WakaTime)
@@ -64,3 +51,6 @@ JavaScript   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░
 Python       0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░
 TypeScript   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░
 Other        0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░
+
+<!--END_SECTION:waka--> </div>
+<!-- ======================== FUN FACT ======================== --> <div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-top:10px;"> ### Fun Fact I’m a hard core tech enthusiast, and I bring that discipline and curiosity into my coding and projects. </div> ```
