@@ -40,15 +40,4 @@ I enjoy solving complex problems and learning new technologies along the way.
 
 ---
 
-<!-- ======================== WAKATIME STATS ======================== -->
-<div style="background-color:#f5f5f5; padding:15px; border-radius:10px; margin-top:10px;">
-### Coding Activity (WakaTime)
-
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░
-Python       0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░
-TypeScript   0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░
-Other        0 hrs 0 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░
 
