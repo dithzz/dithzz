@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ls-adith/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>a
+  </a>
   <a href="https://azenvoc.com/">
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
@@ -39,5 +39,6 @@ I enjoy solving complex problems and learning new technologies along the way.
 </div>
 
 ---
+
 
 
